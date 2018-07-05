@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "",
   "license": "ISC",
@@ -92,6 +94,8 @@
     "xlsx-to-json-depfix": "^0.2.6",
     "xml": "^1.0.1",
     "xml-objtree": "^0.24.2",
-    "xml2js": "^0.4.19"
-  }
+    "xml2js": "^0.4.19",
+    "snyk": "^1.88.1"
+  },
+  "snyk": true
 }
