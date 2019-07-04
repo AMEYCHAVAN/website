@@ -1,0 +1,44 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - archiver > archiver-utils > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - archiver > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - html-to-text > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - soap > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - geoip-lite > ip-address > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - sqs-consumer > async > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - archiver > zip-stream > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - standard > eslint-plugin-import > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - archiver > async > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - csvtojson > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - standard > eslint > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - geoip-lite > async > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - standard > eslint > inquirer > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - standard > eslint > table > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - exceljs > archiver > async > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - archiver > zip-stream > archiver-utils > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - pug > pug-code-gen > constantinople > babel-types > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - pug > pug-filters > constantinople > babel-types > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
+    - pug > pug-code-gen > pug-attrs > constantinople > babel-types > lodash:
+        patched: '2019-07-04T03:48:23.470Z'
