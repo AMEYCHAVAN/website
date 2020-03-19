@@ -56,7 +56,7 @@
     "luhn": "^2.1.0",
     "merge-img": "^2.1.2",
     "mime-types": "^2.1.18",
-    "mocha": "^5.2.0",
+    "mocha": "^7.1.1",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.17",
     "mongodb": "^3.0.10",
