@@ -87,7 +87,7 @@
     "underscore": "^1.9.1",
     "validator": "^10.3.0",
     "x2js": "^3.2.1",
-    "xls-to-json": "^0.5.0",
+    "xls-to-json": "^2.0.1",
     "xlsx": "^0.13.0",
     "xlsx-to-json-depfix": "^0.2.6",
     "xml": "^1.0.1",
