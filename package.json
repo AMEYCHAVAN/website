@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "adm-zip": "^0.4.11",
+    "adm-zip": "^0.5.2",
     "amazon-ses": "0.0.3",
     "amqplib": "^0.5.2",
     "archiver": "^2.1.1",
