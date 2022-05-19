@@ -38,7 +38,7 @@
     "express-session": "^1.15.6",
     "express-xml-bodyparser": "^0.3.0",
     "file-stream-rotator": "^0.2.1",
-    "formidable": "^1.2.1",
+    "formidable": "^3.2.4",
     "generate-password": "^1.4.0",
     "geoip-lite": "^1.2.1",
     "handlebars": "^4.0.11",
